@@ -1,0 +1,10 @@
+# Office temporary files
+~$*.xlsx
+~$*.docx
+*.tmp
+*.bak
+# Python / OS
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
